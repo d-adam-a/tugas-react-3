@@ -1,0 +1,15 @@
+main {
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    flex-wrap: wrap;
+}
+
+.container {
+    border: 1px solid black;
+    padding: 10px;
+    box-sizing: border-box;
+    background-color: red;
+    color: white;
+}
